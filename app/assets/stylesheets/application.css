@@ -35,6 +35,14 @@
 */
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
 
+.flip-clock-lable{
+  font-size: 100px;
+}
+
+.img-responsive{
+  width: 200px;
+}
+
 div.your-clock.flip-clock-wrapper {
   position: absolute;
   margin-left: auto;
